@@ -1,0 +1,77 @@
+[
+  {
+    "first_name": "Isaias",
+    "last_name": "Lynch",
+    "address_1": "5 Old Strawberry Lane",
+    "address_2": "Chesapeake VA 23320",
+    "dob": "07/25/1958",
+    "credit_score": 616,
+    "feature_importance": [
+      {
+        "impact": "high",
+        "performance": "bad",
+        "feature": "Credit card balance",
+        "value": 4775,
+        "text": "Customers have performed better in 5000 - 8000"
+      },
+      {
+        "impact": "high",
+        "performance": "good",
+        "feature": "Months since last delinquent",
+        "value": 40,
+        "text": "velit euismod in pellentesque massa"
+      },
+      {
+        "impact": "medium",
+        "performance": "good",
+        "feature": "Monthly debt",
+        "value": 9136,
+        "text": "neque vitae tempus quam pellentesque"
+      },
+      {
+        "impact": "medium",
+        "performance": "bad",
+        "feature": "Maximum open credit",
+        "value": 153329,
+        "text": "proin gravida hendrerit lectus a"
+      },
+      {
+        "impact": "low",
+        "performance": "bad",
+        "feature": "Other balances",
+        "value": 28919,
+        "text": "pulvinar elementum integer enim neque"
+      },
+      {
+        "impact": "low",
+        "performance": "bad",
+        "feature": "Years of credit history",
+        "value": 19,
+        "text": "nulla facilisi nullam vehicula ipsum"
+      }
+    ],
+    "top_spendings": {
+      "MortgageBal": 300000.0,
+      "AutoLoanBal": 19000.0,
+      "OtherBal": 8919.0,
+      "CreditCardBal": 4775.0,
+      "StudentLoanBal": 2000.0
+    },
+    "user_predictions": {
+      "DefaultScore": 61,
+      "ProbabilisticCutoff": 50,
+      "TruePositiveRate": 35,
+      "FalseNegativeRate": 45
+    },
+    "other_indicators": {
+      "debt_ratio": {
+        "value": 30.2,
+        "recommendation": 43
+      },
+      "credit_utilization": {
+        "value": 8,
+        "recommendation": 10
+      }
+    }
+  }
+]

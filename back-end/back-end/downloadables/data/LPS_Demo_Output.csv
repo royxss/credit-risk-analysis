@@ -1,0 +1,21 @@
+Id,First Name,Last Name,Address 1,City ,State ,00Zip,ScoreBucket,StudentLoanQty,StudentLoanBal,StudentLoanDel,CreditCardQty,CreditCardBal,CreditCardDel,AutoLoanQty,AutoLoanBal,AutoLoanDel,MortgageQty,MortgageBal,MortgageDel,MortgageLender,MortgageOpenDate,OtherQty,OtherBal,OtherDel,DOB,IsError,ErrorDescription
+1,Isaias,Lynch,5 Old Strawberry Lane,Chesapeake,VA,23320,X,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,TRUE,ERR: An error occurred processing your report. Please try again in 24 hours or contact customer service.<br /><br/>Detail: 103023 Essential service product failed:NoHit:The credit bureau has no data for the given PII
+2,Edna,Jarvis,778 E. Roehampton Lane,Little Falls,NJ,7424,D,0,0,0,8,14943,0,0,0,0,1,14198,0,SUNTRUST BNK,10/26/2006,0,0,0,07/21/1955,FALSE,
+3,Pedro,Willis,88 Oak Dr.,Methuen,MA,1844,B,0,0,0,2,9462,0,1,15104,0,0,0,0,,,2,13224,0,07/30/1963,FALSE,
+4,Bryon,Thompson,8 Orange Drive,Cape Coral,FL,33904,Q,0,0,0,2,3096,1,0,0,0,0,0,0,,,1,402,1,07/25/1958,FALSE,
+5,Kyle,Moss,358 Greenrose Lane,Cincinnati,OH,45211,A,0,0,0,3,419,0,0,0,0,3,0,0,BK OF MCKENY| BK OF MCKENY| BK OF MCKENY,02/01/2006|07/14/2006|11/10/2006,1,246707,0,05/10/1958,FALSE,
+6,Amy,Shaffer,3 Mountainview Drive,Roselle,IL,60172,M,0,0,0,5,4775,0,0,0,0,1,0,0,JPMCB HOME,1/13/2012,6,28919,3,07/03/1970,FALSE,
+7,Casandra,Chen,9 Rose Street,Solon,OH,44139,E,0,0,0,10,15267,0,1,29078,0,1,10916,0,WFHM,11/1/2007,1,24087,0,06/30/1965,FALSE,
+8,Louis,Cunningham,97 La Sierra Ave.,Fullerton,CA,92831,L,0,0,0,7,917,0,4,60467,1,0,0,0,,,3,60460,2,03/08/1969,FALSE,
+9,Xavier,Moon,917 Ridgeview Rd.,Potomac,MD,20854,G,0,0,0,5,19491,0,4,55021,0,0,0,0,,,0,0,0,07/03/1988,FALSE,
+10,Winston,Beasley,680 Smith Rd.,Harrisonburg,VA,22801,P,0,0,0,5,15968,0,2,138341,0,1,128640,0,WV CENTRALCU,2/11/2020,0,0,0,02/22/1989,FALSE,
+11,Theodore,Roth,7714 Old Valley Avenue,Westbury,NY,11590,B,0,0,0,1,1643,0,0,0,0,0,0,0,,,0,0,0,,FALSE,
+12,Adolfo,Contreras,592 Fordham St.,Chelsea,MA,2150,M,0,0,0,1,3993,0,2,46100,0,0,0,0,,,3,94637,0,11/26/1964,FALSE,
+13,Kimberley,Higgins,71 West Marlborough Court,Taylors,SC,29687,H,0,0,0,3,6795,0,1,63608,0,0,0,0,,,1,44024,0,09/15/1996,FALSE,
+14,Sara,Rosales,7196 W. Jennings Street,Levittown,NY,11756,R,0,0,0,1,318,1,0,0,0,0,0,0,,,0,0,0,03/08/1952,FALSE,
+15,Sallie,Armstrong,163 Foster Ave.,Forney,TX,75126,X,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,TRUE,ERR: An error occurred processing your report. Please try again in 24 hours or contact customer service.<br /><br/>Detail: 103023 Essential service product failed:NoHit:The credit bureau has no data for the given PII
+16,Leonor,Gregory,18 N. Harvard Street,State College,PA,16801,K,0,0,0,3,27622,0,1,22462,0,2,533998,0,US BANK| US BK HM MTG,01/12/2017|06/30/2016,2,161278,0,03/06/1974,FALSE,
+17,Alex,Wilkinson,290 Branch Rd.,La Vergne,TN,37086,J,0,0,0,5,13478,0,0,0,0,0,0,0,,,2,48028,0,09/25/1982,FALSE,
+18,Shannon,Dodson,7 East Manhattan Avenue,Lorain,OH,44052,G,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,FALSE,
+19,Lou,Gardner,575 Country Club Ave.,Royal Oak,MI,76006,M,0,0,0,8,27542,0,0,0,0,0,0,0,,,0,0,0,03/20/1957,FALSE,
+20,Merlin,Benton,98 Amherst St.,North Miami Beach,FL,63033,I,1,9277,0,7,60651,0,0,0,0,1,130508,0,PHH MORT SVC,2/20/2013,1,39581,0,12/09/1957,FALSE,

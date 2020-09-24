@@ -1,0 +1,78 @@
+[
+    {
+        "first_name": "",
+        "last_name": "",
+        "address_1": "",
+        "address_2": "",
+        "dob": "",
+        "credit_score": 0,
+        "feature_importance": [
+            
+            {
+                "impact": "high",
+                "performance": "bad",
+                "feature": "Credit card balance",
+                "value": 0,
+                "text": "aliquam vestibulum morbi blandit cursus"
+            },
+            {
+                "impact": "high",
+                "performance": "bad",
+                "feature": "Months since last delinquent",
+                "value": 0,
+                "text": "velit euismod in pellentesque massa"
+            },
+            {
+                "impact": "medium",
+                "performance": "bad",
+                "feature": "Monthly debt",
+                "value": 0,
+                "text": "neque vitae tempus quam pellentesque"
+            },
+            {
+                "impact": "medium",
+                "performance": "bad",
+                "feature": "Maximum open credit",
+                "value": 0,
+                "text": "proin gravida hendrerit lectus a"
+            },
+            {
+                "impact": "low",
+                "performance": "bad",
+                "feature": "Other balances",
+                "value": 0,
+                "text": "pulvinar elementum integer enim neque"
+            },
+            {
+                "impact": "low",
+                "performance": "bad",
+                "feature": "Years of credit history",
+                "value": 0,
+                "text": "nulla facilisi nullam vehicula ipsum"
+            }
+        ],
+        "top_spendings": {
+            "OtherBal": 0,
+            "CreditCardBal": 0,
+            "StudentLoanBal": 0,
+            "AutoLoanBal": 0,
+            "MortgageBal": 0
+        },
+        "user_predictions": {
+            "DefaultScore": 50,
+            "ProbabilisticCutoff": 50,
+            "TruePositiveRate": 0,
+            "FalseNegativeRate": 0
+        },
+        "other_indicators":{
+            "debt_ratio" : {
+                "value": 0,
+                "recommendation": 43
+            },
+            "credit_utilization" : {
+                "value": 0,
+                "recommendation": 10
+            }
+        }
+    }
+]

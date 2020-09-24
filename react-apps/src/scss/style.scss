@@ -1,0 +1,23 @@
+// If you want to override variables do it here
+@import "variables";
+
+// Import CoreUI styles
+@import "~@coreui/coreui/scss/coreui.scss";
+
+// If you want to add something do it here
+@import "custom";
+
+.main-navbar__search .input-group-prepend .input-group-text,
+.main-sidebar__search .input-group-prepend .input-group-text {
+  font-size: 0.6875rem;
+  padding: 0.75rem 1.0625rem; }
+
+.main-navbar__search input.form-control,
+.main-sidebar__search input.form-control {
+  border: none;
+  font-size: 0.8125rem;
+  border-radius: 0; }
+  .main-navbar__search input.form-control:hover, .main-navbar__search input.form-control:focus,
+  .main-sidebar__search input.form-control:hover,
+  .main-sidebar__search input.form-control:focus {
+    box-shadow: none; }
