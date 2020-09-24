@@ -1,17 +1,21 @@
-## Credit Risk Analysis App
+## Description:
 
-### Demo
+This application performs credit risk analysis using machine learning and identifies customers who are most likely to default on their payment next month.
 
-![Alt Text](./demo.gif)
+## How to start the application:
 
-### Start Application using Docker:
+#### Use docker container to start the application from the folder where Dockerfile exists. _Note: Please make sure docker is installed in your machine_
 
-#### Note: There is no compose here as it is just one container.
-
-- docker build -t creditriskapp .
-- docker run -d -p 9090:9090 creditriskapp:latest
+- git pull
+- docker stop \$(docker ps -q --filter ancestor=credit-risk-app-monolith) # if already running
+- docker build -t credit-risk-app-monolith .
+- docker run --rm -d -p 9090:9090 credit-risk-app-monolith
 
 #### Test only front-end?
 
 - docker build -t frontend .
 - docker run -it -p 3000:3000 frontend:latest
+
+#### Open browser using `http://0.0.0.0:9090/dashboard/`
+
+![Alt Text](./demo.gif)
